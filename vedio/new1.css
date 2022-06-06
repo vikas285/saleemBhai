@@ -1,0 +1,42 @@
+* {
+  font-family: "Roboto Serif", serif;
+  margin: 0%;
+  padding: 0%;
+ 
+}
+.vedio{
+ 
+
+  display: block;
+  position: relative;
+}
+.myclass{
+  width: 100%;
+ 
+}
+.ruk{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  color: orchid;
+  
+}
+
+h1{
+  font-size: 70px;
+  text-decoration-line: underline;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+}
+
+
+
+
